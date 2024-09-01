@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SEDS-Prototype-2/static/css/main.1044c88b.css",
+    "main.js": "/SEDS-Prototype-2/static/js/main.802bbfb2.js",
+    "index.html": "/SEDS-Prototype-2/index.html",
+    "main.1044c88b.css.map": "/SEDS-Prototype-2/static/css/main.1044c88b.css.map",
+    "main.802bbfb2.js.map": "/SEDS-Prototype-2/static/js/main.802bbfb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1044c88b.css",
+    "static/js/main.802bbfb2.js"
+  ]
+}
